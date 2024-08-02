@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Software developer from Lebanon</h3>
 
 
-![19b28c8372aaec65623f7ee7332e74be](https://github.com/user-attachments/assets/1e6c8006-8b2c-4312-b36b-5eb8d4347d56)
+![de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372-ezgif com-crop](https://github.com/user-attachments/assets/7d8202c5-7171-4425-83b3-40ab373a9ed9)
+
 
 ## Languages and Tools:
 <p align="left">
