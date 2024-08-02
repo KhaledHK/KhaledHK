@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Khaled</h1>
+<h3 align="center">A passionate Software developer from Lebanon</h3>
+
+![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/5daa3cc2-a952-4620-a829-8caff0f95421)
+
 
 <!--
 **KhaledHK/KhaledHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## snake
+
 ![Snake animation](https://raw.githubusercontent.com/KhaledHK/KhaledHK/output/github-contribution-grid-snake-dark.svg)
 
