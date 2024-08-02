@@ -68,7 +68,7 @@
 ## My Journey
 <div>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledHK&theme=github">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998&theme=onedark" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledHK&theme=onedark" />
   <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KhaledHK&layout=compact&theme=onedark" />
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KhaledHK&show_icons=true&theme=onedark">
 </div>
