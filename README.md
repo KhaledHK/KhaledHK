@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=khakedHK&label=Profile%20views&color=0e75b6&style=flat" alt="khaledHK" align="right" />
 
-![tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280](https://github.com/user-attachments/assets/3efa67c1-1db2-4d1b-9d5a-b26026847563)
+![19b28c8372aaec65623f7ee7332e74be](https://github.com/user-attachments/assets/1e6c8006-8b2c-4312-b36b-5eb8d4347d56)
 
 ## Languages and Tools:
 <p align="left">
