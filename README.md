@@ -63,16 +63,16 @@
 </p>
 
 ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/KhakedHK/KhakedHK/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/KhaledHK/KhaledHK/output/github-contribution-grid-snake-dark.svg)
 
 ## My Journey
 <div>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KhakedHK&theme=github">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledHK&theme=github">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998&theme=onedark" />
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KhakedHK&layout=compact&theme=onedark" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KhakedHK&show_icons=true&theme=onedark">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KhaledHK&layout=compact&theme=onedark" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KhaledHK&show_icons=true&theme=onedark">
 </div>
 
 ## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=KhakedHK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=KhaledHK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
