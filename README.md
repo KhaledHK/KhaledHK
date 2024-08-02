@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
+<img src="https://komarev.com/ghpvc/?username=khakedHK&label=Profile%20views&color=0e75b6&style=flat" alt="khaledHK" align="right" />
 <h3 align="center">A passionate Software developer from Lebanon</h3>
 
-<img src="https://komarev.com/ghpvc/?username=khakedHK&label=Profile%20views&color=0e75b6&style=flat" alt="khaledHK" align="right" />
 
 ![19b28c8372aaec65623f7ee7332e74be](https://github.com/user-attachments/assets/1e6c8006-8b2c-4312-b36b-5eb8d4347d56)
 
